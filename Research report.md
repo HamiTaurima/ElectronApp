@@ -46,3 +46,11 @@ This point is a good principle to focus on when designing a GUI there should be 
 
 [Reference](http://bokardo.com/principles-of-user-interface-design/)
 
+
+<br><br>
+# Peer Review by Gurjinder Ghuman
+
+> In his report, Hami have come up with very good point about how the best practices for GUI application. I agree with his first point that application should be very clear to use for user. In his Color change application he tried to use all the researched principles where possible. 
+
+>Overall I am quite impressed with research conducted by Hami. 
+THANK YOU
