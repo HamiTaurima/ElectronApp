@@ -1,2 +1,0 @@
-# ElectronApp
-Assessment 1
